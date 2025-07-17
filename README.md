@@ -11,7 +11,6 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
 
 - 🌱 I’m learning:
   - MERN Stack (MongoDB, Express.js, React.js, Node.js)
-  - Python, C, Shell scripting
   - Git, Linux, and software engineering best practices
   - Startup building and business strategy
 
@@ -20,7 +19,6 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
 
 - 🧠 Currently Exploring:
   - IoT and hardware prototyping (Arduino)
-  - AI-generated music and monetization strategies
   - MVP development and lean startup methodology
 
 - 📫 How to reach me:  
