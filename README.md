@@ -4,6 +4,9 @@
 📍 India | 💻 Passionate about Building Impactful Tech
 
 ---
+## 📝 Download/View my Resume Here
+  - (https://drive.google.com/file/d/14Y5fy9q3tzcEzj3RKI7QdVFxzoFrWHkL/view?usp=drive_link)
+---
 
 ## 🚀 About Me
 
