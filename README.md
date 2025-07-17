@@ -15,7 +15,7 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
   - Startup building and business strategy
 
 - 💬 Ask me about:  
-  Web dev, startup ideas, tech products, YouTube monetization with AI music
+  Web dev, startup ideas, tech products, Music Production
 
 - 🧠 Currently Exploring:
   - IoT and hardware prototyping (Arduino)
@@ -46,7 +46,6 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Currently Learning:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -69,7 +68,7 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
 ---
 
 ## ⚡ Fun Facts
-- I've vouluntered for social servic in an NGO during my Career break to bring goodwill to society as well as provide for my family during tough time.
+- I've vouluntered for social service in a NGO during my Career break to bring goodwill to society as well as provide for my family during tough time.
 - I’ve worked as a gig worker (Swiggy, Rapido) while pursuing my tech dreams  
 
 ---
