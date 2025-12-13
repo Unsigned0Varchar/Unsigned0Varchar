@@ -5,7 +5,7 @@
 
 ---
 ## 📝 Download/View my Resume Here
-  - (https://drive.google.com/file/d/14Y5fy9q3tzcEzj3RKI7QdVFxzoFrWHkL/view?usp=drive_link)
+  - (https://drive.google.com/file/d/1cLw4zlXQQW3hQ4ckF1FYRVaIQXTDnhhW/view?usp=drive_link)
 ---
 
 ## 🚀 About Me
