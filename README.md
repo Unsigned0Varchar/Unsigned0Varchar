@@ -18,7 +18,7 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
   - Startup building and business strategy
 
 - 💬 Ask me about:  
-  Web dev, startup ideas, tech products, Music Production
+  Web dev, startup ideas, tech products
 
 - 🧠 Currently Exploring:
   - IoT and hardware prototyping (Arduino)
@@ -48,7 +48,6 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Currently Learning:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,7 +62,7 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
 
 | Project     | Description |
 |-------------|-------------|
-| **PassMan** | A secure password manager with local storage. |
+| **Prescripto** | A secure doctor appointment manager with end user portal, admin/doctor portal. |
 | **TripIt**  | A AI travel planning app that helps users build, visualize, and share trip plans. |
 
 🔗 *Check out my pinned repositories below for full source code & demos.*
@@ -72,7 +71,7 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
 
 ## ⚡ Fun Facts
 - I've vouluntered for social service in a NGO during my Career break to bring goodwill to society as well as provide for my family during tough time.
-- I’ve worked as a gig worker (Swiggy, Rapido) while pursuing my tech dreams  
+- Got selected for Replit x Polaris school Of Technology Vibeathon, Bangalore in the top 1000 participants out of 10000+ applications.  
 
 ---
 
