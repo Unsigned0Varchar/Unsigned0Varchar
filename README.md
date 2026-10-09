@@ -1,16 +1,13 @@
 # 👋 Hi there, I'm Abhikraj
 
-🎓 BCA Student | 🌐 Web Developer in Progress |
+🎓 BCA Graduate, Currently employed at HelloRamp.ai as QA analyst | 🌐 Web Developer in Progress |
 📍 India | 💻 Passionate about Building Impactful Tech
 
----
-## 📝 Download/View my Resume Here
-  - (https://drive.google.com/file/d/1cLw4zlXQQW3hQ4ckF1FYRVaIQXTDnhhW/view?usp=drive_link)
 ---
 
 ## 🚀 About Me
 
-I'm a self-driven BCA student working towards building a strong foundation in full-stack web development. My ultimate goal is to create technology that solves real-world problems. I'm currently learning by building projects, contributing to open-source, and staying curious every single day.
+I'm a self-driven MCA student and working professional working towards building a strong foundation in full-stack web development. My ultimate goal is to create technology that solves real-world problems. I'm currently learning by building projects, contributing to open-source, and staying curious every single day.
 
 - 🌱 I’m learning:
   - MERN Stack (MongoDB, Express.js, React.js, Node.js)
