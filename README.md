@@ -23,7 +23,7 @@ I'm a self-driven MCA student and working professional working towards building 
 
 - 📫 How to reach me:  
   [📩 Email me](mailto:abhikrajdutta0311@gmail.com)  
-  [🌐 Portfolio Website](https://portfolio-liart-psi-29.vercel.app/) *(live projects + case studies)*
+  [🌐 Portfolio Website](https://myportfolio-gamma-seven-34.vercel.app/)] *(live projects + case studies)*
 
 ---
 
