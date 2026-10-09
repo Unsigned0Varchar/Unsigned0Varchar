@@ -62,7 +62,6 @@ I'm a self-driven BCA student working towards building a strong foundation in fu
 
 | Project     | Description |
 |-------------|-------------|
-| **Prescripto** | A secure doctor appointment manager with end user portal, admin/doctor portal. |
 | **TripIt**  | A AI travel planning app that helps users build, visualize, and share trip plans. |
 
 🔗 *Check out my pinned repositories below for full source code & demos.*
